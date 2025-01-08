@@ -12,7 +12,7 @@ Current features:
 
 
 Currently known bugs:
-- Once you take a measure from the box on the upper right, the duplicate it creates is nearly doubled in size. This is one of those bugs where everything was working fine last night then in the morning, this was happening and I don't have time to chase down the cause before the deadline, though I did try to fix it.
+- Once you take a measure from the box on the upper right, the duplicate it creates will change size. This is one of those bugs where everything was working fine last night, then in the morning, this was happening and I don't have time to chase down the cause before the deadline, though I did try to fix it.
 - When dragging the measure, clicking on the squares doesn't count, you have to click on the pink parts. dragging still works though so I considered this low priority
 - leaving a measure empty in the DAW counts as just a measure of empty beats.
 
